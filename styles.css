@@ -21,8 +21,9 @@ h1 {
     cursor: pointer;
     width: 60%;
     /* background: #000 !important; */
-    background: url("https://images2.alphacoders.com/727/727054.png") !important;
-    background-position: ;
+    
+    background: url("https://images5.alphacoders.com/473/473178.jpg") !important;
+    /* background-position: ; */
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
